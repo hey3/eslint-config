@@ -1,4 +1,3 @@
-
 module.exports = {
   extends: ['./rules/eslint.js', './rules/typescript.js', './rules/react.js'],
   rules: {
